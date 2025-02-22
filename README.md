@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Danz 👋</h1>
+<h1 align="center">Hi there, I'm Danz -> Danzxyz 👋</h1>
 <h3 align="center">💻 JavaScript Enthusiast | 🛡️ Pentester | 🎨 GUI Developer | 🤖 AI Learner</h3>
 
 ---
